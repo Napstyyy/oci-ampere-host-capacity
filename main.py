@@ -4,7 +4,7 @@ import subprocess
 
 def run_php_script():
     # Command to run your PHP script
-    command = ["php", "C:/Users/mate2/OneDrive/Escritorio/FreeLancing/EEmperor/OCI/ScriptSolutionHostCapacity/oci-arm-host-capacity/index.php"]
+    command = ["php", "/workspaces/oci-ampere-host-capacity/index.php"]
     subprocess.run(command)
 
 # Schedule the task to run every 5 minutes
