@@ -1,0 +1,11 @@
+{
+    "getAvailabilityDomains": {
+        "4cabdf1d6745995606c8a1d72d999078": [
+            {
+                "compartmentId": "ocid1.tenancy.oc1..aaaaaaaalwcpdpcsrqafubts7jd4wwcy4fudiz54bcockr32sjvyxmqjt2kq",
+                "id": "ocid1.availabilitydomain.oc1..aaaaaaaa7z5chse4pytkmydraue4giw7ltppqftadew25trtibko3jcb32ja",
+                "name": "oIJJ:SA-BOGOTA-1-AD-1"
+            }
+        ]
+    }
+}
